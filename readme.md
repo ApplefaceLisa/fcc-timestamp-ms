@@ -9,3 +9,4 @@
 
 ************************************************************************************************
 - [Creating Apps from the CLI](https://devcenter.heroku.com/articles/creating-apps)
+- [Deploying with Git](https://devcenter.heroku.com/articles/git)

@@ -6,3 +6,6 @@
 - [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs) : to understand how to take an existing Node.js app and deploy it to Heroku.
 
 - [Node.js category](https://devcenter.heroku.com/categories/nodejs)
+
+************************************************************************************************
+- [Creating Apps from the CLI](https://devcenter.heroku.com/articles/creating-apps)

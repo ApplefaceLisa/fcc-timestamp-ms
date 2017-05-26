@@ -1,5 +1,11 @@
-# freecodecamp API projects - timestamp microservice
+# freecodecamp API projects - [timestamp microservice](https://www.freecodecamp.com/challenges/timestamp-microservice)
+### Objective
+Build a full stack JavaScript app that is functionally similar to this: https://timestamp-ms.herokuapp.com/ and deploy it to Heroku.
 
+### [Live Version](https://timestamp-ms-lisali.herokuapp.com/)
+
+************************************************************************************************
+# HeroKu Usage
 #### [HeroKu](https://devcenter.heroku.com/articles/getting-started-with-nodejs#next-steps)
 - [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works) : for a technical overview of the concepts you’ll encounter while writing, configuring, deploying and running applications.
 
@@ -26,4 +32,4 @@ $ heroku git:remote -a falling-wind-1624   // add another repo as remote
 $ git push heroku master            // deploy code
 ```
 
-### [Live Version](https://timestamp-ms-lisali.herokuapp.com/)
+

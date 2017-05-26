@@ -26,4 +26,4 @@ $ heroku git:remote -a falling-wind-1624   // add another repo as remote
 $ git push heroku master            // deploy code
 ```
 
-### [Deployed App](https://timestamp-ms-lisali.herokuapp.com/)
+### [Live Version](https://timestamp-ms-lisali.herokuapp.com/)
